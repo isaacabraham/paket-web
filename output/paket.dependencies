@@ -1,0 +1,26 @@
+source https://www.nuget.org/api/v2/
+
+nuget AutoMapper 4.2.1 framework: >= net452
+nuget bootstrap 3.3.6 framework: >= net452
+nuget Dapper 1.42 framework: >= net452
+nuget Microsoft.ApplicationInsights.JavaScript 0.15.0-build58334 framework: >= net452
+nuget Microsoft.ApplicationInsights.Web 2.0.0 framework: >= net452
+nuget Microsoft.AspNet.Identity.EntityFramework 2.2.1 framework: >= net452
+nuget Microsoft.AspNet.Identity.Owin 2.2.1 framework: >= net452
+nuget Microsoft.AspNet.Web.Optimization 1.1.3 framework: >= net452
+nuget Microsoft.AspNet.WebApi 5.2.3 framework: >= net452
+nuget Microsoft.CodeDom.Providers.DotNetCompilerPlatform 1.0.1 framework: >= net452
+nuget Microsoft.jQuery.Unobtrusive.Validation 3.2.3 framework: >= net452
+nuget Microsoft.Owin.Host.SystemWeb 3.0.1 framework: >= net452
+nuget Microsoft.Owin.Security.Facebook 3.0.1 framework: >= net452
+nuget Microsoft.Owin.Security.Google 3.0.1 framework: >= net452
+nuget Microsoft.Owin.Security.MicrosoftAccount 3.0.1 framework: >= net452
+nuget Microsoft.Owin.Security.Twitter 3.0.1 framework: >= net452
+nuget Microsoft.SqlServer.Types 11.0.2 framework: >= net452
+nuget Modernizr 2.8.3 framework: >= net452
+nuget MvcCheckBoxList 1.4.5 framework: >= net452
+nuget PetaPoco 5.1.153 framework: >= net452
+nuget Respond 1.4.2 framework: >= net452
+nuget Sendgrid 6.3.4 framework: >= net452
+nuget Unity.Interception 2.1.505.2 framework: >= net452
+nuget Unity.Mvc 4.0.1 framework: >= net452
